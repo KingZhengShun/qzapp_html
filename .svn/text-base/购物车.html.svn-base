@@ -1,0 +1,183 @@
+<!DOCTYPE html>
+<html lang="zh_cn">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="target-densitydpi=device-dpi, width=device-width, initial-scale=1, user-scalable=no, minimum-scale=1.0, maximum-scale=1.0">
+  
+<title></title>
+
+<link type="text/css" rel="stylesheet" href="css/public.css">
+<link type="text/css" rel="stylesheet" href="css/cart.css">
+</head>
+
+<body style="background:#eee;">
+
+<header class="header">
+  <div class="head_box c_db">
+    <p class="head_icon head_back c_db c_bpc c_bac"><i></i></p>
+    <div class="head_text c_bf1 c_txc">Cart</div>
+  </div>
+</header>
+
+<div class="cart_list">
+  <ul>
+    <li class="c_db">
+      <a href="#" class="scal"></a>
+      <p class="xzgxal c_db c_bpc c_bac"><i class="on"></i></p>
+      <p class="p2"><img src="images/hx_17.png"></p>
+      <div class="div1_box c_bf1">
+        <h1>Pop style baseball cap</h1>
+        <h2><b>$999</b><span>Size<i>63/8</i></span></h2>
+        <div class="spsl_box clear">
+          <div class="spslzj">
+            <p class="reduce c_bs"></p>
+            <input type="text" value="" placeholder="1">
+            <p class="plus c_bs"></p>
+          </div>
+          <p class="custom">Custom<i></i></p>
+        </div>
+      </div>
+    </li>
+    
+    <li class="c_db">
+      <a href="#" class="scal"></a>
+      <p class="xzgxal c_db c_bpc c_bac"><i></i></p>
+      <p class="p2"><img src="images/dzlb_5.png"></p>
+      <div class="div1_box c_bf1">
+        <h1>Pop style baseball cap</h1>
+        <h2><b>$999</b><span>Size<i>63/8</i></span></h2>
+        <div class="spsl_box clear">
+          <div class="spslzj">
+            <p class="reduce c_bs"></p>
+            <input type="text" value="" placeholder="1">
+            <p class="plus c_bs"></p>
+          </div>
+          <p class="custom">Custom<i></i></p>
+        </div>
+      </div>
+    </li>  
+    
+    <li class="c_db">
+      <a href="#" class="scal"></a>
+      <p class="xzgxal c_db c_bpc c_bac"><i></i></p>
+      <p class="p2"><img src="images/dzlb_6.png"></p>
+      <div class="div1_box c_bf1">
+        <h1>Pop style baseball cap</h1>
+        <h2><b>$999</b><span>Size<i>63/8</i></span></h2>
+        <div class="spsl_box clear">
+          <div class="spslzj">
+            <p class="reduce c_bs"></p>
+            <input type="text" value="" placeholder="1">
+            <p class="plus c_bs"></p>
+          </div>
+          <p class="custom">Custom<i></i></p>
+        </div>
+      </div>
+    </li>        
+  </ul>
+</div>
+
+<div class="lshw_box c_db c_bpc c_bac"><p><span>SIMILAR GOODS</span></p></div>
+
+<div class="pr_list">
+  <ul>
+    <li>
+      <a href="#">
+        <img src="images/dzlb_3.png">
+        <span>pop style baseball cap</span>
+        <i>$299</i>
+      </a>
+    </li>
+    <li>
+      <a href="#">
+        <img src="images/dzlb_4.png">
+        <span>pop style baseball cap</span>
+        <i>$299</i>
+      </a>
+    </li>
+    <li>
+      <a href="#">
+        <img src="images/dzlb_5.png">
+        <span>pop style baseball cap</span>
+        <i>$299</i>
+      </a>
+    </li>
+    <li>
+      <a href="#">
+        <img src="images/dzlb_6.png">
+        <span>pop style baseball cap</span>
+        <i>$299</i>
+      </a>
+    </li> 
+    
+    <li>
+      <a href="#">
+        <img src="images/dzlb_7.png">
+        <span>pop style baseball cap</span>
+        <i>$299</i>
+      </a>
+    </li>          
+    
+    <li>
+      <a href="#">
+        <img src="images/dzlb_8.png">
+        <span>pop style baseball cap</span>
+        <i>$299</i>
+      </a>
+    </li>                      
+  </ul>
+</div>
+
+<div class="gmfdc_box">
+ <div class="gmfdc c_db">
+   <p class="p1 xzgxal c_db c_bpc c_bac"><i></i></p>
+   <p class="p2 c_bf3 c_db c_bac"><span class="span_1">All<b>Total</b></span><span class="span_2">$3028</span></p>
+   <p class="p3 c_bf2"><input type="submit" value="buy"></p>
+ </div>
+</div>
+
+
+<footer class="footer"> 
+   <div class="footer_box">
+        <ul class="c_db">
+            <li class="c_bf1 act">
+                <a href="javascript:;">
+                    <i class="nav1"></i>
+                    <p>Home</p>
+                </a>
+            </li>
+            <li class="c_bf1">
+                <a href="javascript:;">
+                    <i class="nav2"></i>
+                    <p>Selected</p>
+                </a>
+            </li>
+            <li class="c_bf1">
+                <a href="javascript:;">
+                    <i class="nav3"></i>
+                    <p>Custom</p>
+                </a>
+            </li>
+            <li class="c_bf1">
+                <a href="javascript:;">
+                    <i class="nav4"></i>
+                    <p>Cart</p>
+                </a>
+            </li>
+            <li class="c_bf1">
+                <a href="javascript:;">
+                    <i class="nav5"></i>
+                    <p>Me</p>
+                </a>
+            </li>
+        </ul>
+    </div>    
+</footer>
+
+
+
+<script src="js/appcan.js"></script>
+<script src="js/appcan.control.js"></script>
+
+</body>
+</html>

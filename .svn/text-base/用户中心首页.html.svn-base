@@ -1,0 +1,141 @@
+<!DOCTYPE html>
+<html lang="zh_cn">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="target-densitydpi=device-dpi, width=device-width, initial-scale=1, user-scalable=no, minimum-scale=1.0, maximum-scale=1.0">
+<title></title>
+
+<link type="text/css" rel="stylesheet" href="css/public.css">
+<link type="text/css" rel="stylesheet" href="css/user.css">
+</head>
+
+<body style="background:#f5f5f5;">
+
+<div class="bg_white">
+
+    <div class="user_info c_prel c_txc">
+        <span class="sz c_pabs">Setting</span>
+
+        <p class="news_icon c_pabs"><span></span><i></i></p>
+
+        <p class="uc_tx"><img src="images/tx.png"></p>
+
+        <h1>Li Yifeng</h1>
+        <span class="jfdj">v1<i>integral: 890</i></span>
+    </div>
+
+    <div class="user_nav c_bdb">
+        <ul>
+            <li class="c_db c_bac">
+                <p class="user_icon1"><i></i></p>
+
+                <div class="c_bf1 c_bdb">
+                    <div class="c_db">
+                        <div class="c_bf1">My order</div>
+                        <i class="c_jtr c_bs"></i></div>
+                </div>
+            </li>
+            <li class="c_db c_bac">
+                <p class="user_icon2"><i></i></p>
+
+                <div class="c_bf1 c_bdb">
+                    <div class="c_db">
+                        <div class="c_bf1">My wallet</div>
+                        <i class="c_jtr c_bs"></i></div>
+                </div>
+            </li>
+            <li class="c_db c_bac">
+                <p class="user_icon3"><i></i></p>
+
+                <div class="c_bf1 c_bdb">
+                    <div class="c_db">
+                        <div class="c_bf1">My work</div>
+                        <i class="c_jtr c_bs"></i></div>
+                </div>
+            </li>
+            <li class="c_db c_bac">
+                <p class="user_icon4"><i></i></p>
+
+                <div class="c_bf1 c_bdb">
+                    <div class="c_db">
+                        <div class="c_bf1">Security setting</div>
+                        <i class="c_jtr c_bs"></i></div>
+                </div>
+            </li>
+            <li class="c_db c_bac">
+                <p class="user_icon5"><i></i></p>
+
+                <div class="c_bf1 c_bdb">
+                    <div class="c_db">
+                        <div class="c_bf1">Personal data</div>
+                        <i class="c_jtr c_bs"></i></div>
+                </div>
+            </li>
+            <li class="c_db c_bac">
+                <p class="user_icon6"><i></i></p>
+
+                <div class="c_bf1 c_bdb">
+                    <div class="c_db">
+                        <div class="c_bf1">Feedback</div>
+                        <i class="c_jtr c_bs"></i></div>
+                </div>
+            </li>
+            <li class="c_db c_bac">
+                <p class="user_icon7"><i></i></p>
+
+                <div class="c_bf1">
+                    <div class="c_db">
+                        <div class="c_bf1">About us</div>
+                        <i class="c_jtr c_bs"></i></div>
+                </div>
+            </li>
+        </ul>
+    </div>
+</div>
+
+
+<footer class="footer">
+    <div class="footer_box">
+        <ul class="c_db">
+            <li class="c_bf1 act">
+                <a href="javascript:;">
+                    <i class="nav1"></i>
+                    <p>Home</p>
+                </a>
+            </li>
+            <li class="c_bf1">
+                <a href="javascript:;">
+                    <i class="nav2"></i>
+                    <p>Selected</p>
+                </a>
+            </li>
+            <li class="c_bf1">
+                <a href="javascript:;">
+                    <i class="nav3"></i>
+                    <p>Custom</p>
+                </a>
+            </li>
+            <li class="c_bf1">
+                <a href="javascript:;">
+                    <i class="nav4"></i>
+                    <p>Cart</p>
+                </a>
+            </li>
+            <li class="c_bf1">
+                <a href="javascript:;">
+                    <i class="nav5"></i>
+                    <p>Me</p>
+                </a>
+            </li>
+        </ul>
+    </div>
+</footer>
+
+
+<script src="js/appcan.js"></script>
+<script src="js/appcan.control.js"></script>
+
+
+
+</body>
+</html>

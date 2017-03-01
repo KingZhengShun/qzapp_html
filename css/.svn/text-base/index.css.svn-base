@@ -1,0 +1,26 @@
+
+.carousel {}
+.carousel img {width:100%;}
+
+.img_ad ul {overflow:hidden;}
+.img_ad li {float:left; width:49%; overflow:hidden;}
+.img_ad li:nth-child(2n+1) {padding:0.2em 0.1em 0 0;}
+.img_ad li:nth-child(2n) {padding:0.2em 0 0 0.1em;}
+.img_ad li img {width:100%;}
+
+.h1_tit {font-size:1em; text-align:center; padding:1.25em 0 1em 0;}
+.pr_list ul {overflow:hidden;}
+.pr_list li {float:left; width:50%; text-align:center; box-sizing:border-box;}
+.pr_list li:nth-child(2n+1) {padding:0.2em 0.1em 0 0;}
+.pr_list li:nth-child(2n) {padding:0.2em 0 0 0.1em;}
+.pr_list li i {color:#333; font-size:0.85em;}
+
+.pr_list li img {width:100%;}
+.pr_list li span {font-size:0.75em; display:block; line-height:1em; height:1em; overflow:hidden; text-overflow:ellipsis; white-space:nowrap; padding:0 0.5em; box-sizing:border-box;}
+
+.fixed_box {height:2.5em;}
+.tab_tag {line-height:2.5em; height:2.5em; position:fixed; width:100%; background:#fff;}
+.tab_tag p {font-size:0.75em; vertical-align:middle;}
+.tab_tag p i {margin-left:0.3em; display:inline-block; position:relative; top:-0.2em;}
+.tab_tag p.on {color:#d10f17}
+.tab_tag p.on i {border-color:#d10f17 !important;}

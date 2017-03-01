@@ -1,0 +1,123 @@
+<!DOCTYPE html>
+<html lang="zh_cn">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="target-densitydpi=device-dpi, width=device-width, initial-scale=1, user-scalable=no, minimum-scale=1.0, maximum-scale=1.0">
+  
+<title></title>
+
+<link type="text/css" rel="stylesheet" href="css/public.css">
+<link type="text/css" rel="stylesheet" href="css/cart.css">
+</head>
+
+<body style="background:#eee;">
+
+<header class="header">
+  <div class="head_box c_db">
+    <p class="head_icon head_back c_db c_bpc c_bac"><i></i></p>
+    <div class="head_text c_bf1 c_txc">Acknowledgement of order</div>
+  </div>
+</header>
+
+<div class="ddqry_box">
+  <h1 class="jsxx">Receiving information<i></i></h1>
+  <p class="dzxsi">
+     Wang Zhuangzhi  18500048888<br/>
+     Room 403,No.37,ShiFan Residential Quarter,<br/>
+     FengTai District
+  </p>
+</div>
+
+<div class="ddqry_box" style="padding-right:0;">
+  <h1 class="spqd">Commodity list<span>A total of 5</span></h1>
+  <ul class="spqd_list">
+    <li class="c_db">
+      <p class="spqd_lbtu"><img src="images/dzlb_5.png"></p>
+      <div class="c_bf1">
+       <h1 class="hgssnr">Korean fashion men...<span>$ 558×2</span></h1>
+       <div class="zdysctb">
+         <p><a href="#">Custom<i></i></a></p>
+         <p><a href="#">Upload logo<i></i></a></p>
+       </div>
+      </div>
+    </li>
+    
+    <li class="c_db">
+      <p class="spqd_lbtu"><img src="images/dzlb_5.png"></p>
+      <div class="c_bf1">
+       <h1 class="hgssnr">Korean fashion men...<span>$ 558×1</span></h1>
+       <div class="zdysctb"><p>Size: 56-58</p></div>
+      </div>
+    </li>
+  </ul>
+  
+  <div class="yhjfbms">
+   <select>
+    <option>Coupon</option>
+   </select>
+  </div>
+  
+  <div class="yhjfbms">
+   <select>
+    <option>Distribution mode</option>
+   </select>
+  </div>
+</div>
+
+<div class="ddqry_box">
+  <h1 class="spqd">Order note</h1>
+  <p class="qgsks"><textarea name="" cols="" rows="">Please tell us if you are concerned about the style and other special requirements.</textarea></p>
+</div>
+
+<div class="ddqry_box" style="padding-right:0;">
+  <h1 class="spqd">Packaging</h1>
+  
+  <div class="yhjfbms">
+   <select>
+    <option>Select packing method</option>
+   </select>
+  </div>
+</div>
+
+<div class="ddqry_box">
+  <h1 class="spqd">Payment method</h1>
+  <ul class="fkfafa">
+    <li class="on c_bs"><span>UnionPay payment</span></li>
+    <li class="c_bs"><span>Alipay Mobile</span></li>
+    <li class="c_bs"><span>WeChat payment</span></li>
+  </ul>
+</div>
+
+<div class="ddqry_box qrjgjs">
+  <div class="c_db">
+    <p class="c_bf1 p1">Commodity amount</p>
+    <p class="c_bf1 p2">$635.00</p>
+  </div>
+  <div class="c_db">
+    <p class="c_bf1 p1">Gift card</p>
+    <p class="c_bf1 p2">-$50.00</p>
+  </div>
+  <div class="c_db">
+    <p class="c_bf1 p1">Small change</p>
+    <p class="c_bf1 p2">-$35.00</p>
+  </div>
+  <div class="c_db">
+    <p class="c_bf1 p1">Freight</p>
+    <p class="c_bf1 p2">$15.00</p>
+  </div>
+</div>
+
+
+<div class="gmfdc_box" style="height:4em;">
+ <div class="gmfdc c_db" style="bottom:0;">
+   <p class="p2 c_bf3 c_db c_bac"><span class="span_1" style="margin-left:0.9375em;">Amount：</span><span class="span_2" style="margin-left:0em">$3028</span></p>
+   <p class="p3 c_bf2"><input type="submit" value="Submit"></p>
+ </div>
+</div>
+
+
+<script src="js/appcan.js"></script>
+<script src="js/appcan.control.js"></script>
+
+</body>
+</html>

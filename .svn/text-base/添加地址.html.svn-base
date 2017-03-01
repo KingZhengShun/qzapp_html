@@ -1,0 +1,51 @@
+<!DOCTYPE html>
+<html lang="zh_cn">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="target-densitydpi=device-dpi, width=device-width, initial-scale=1, user-scalable=no, minimum-scale=1.0, maximum-scale=1.0">
+  
+<title></title>
+
+<link type="text/css" rel="stylesheet" href="css/public.css">
+<link type="text/css" rel="stylesheet" href="css/user.css">
+</head>
+
+<body class="bg_gray">
+
+<header class="header">
+  <div class="head_box c_db">
+    <p class="head_icon head_back c_db c_bpc c_bac"><i></i></p>
+    <div class="head_text c_bf1 c_txc">Add address</div>
+  </div>
+</header>
+
+
+<div class="add_form bg_white">
+  <ul>
+    <li class="c_db"><p class="p1 c_bf1"><input type="text" value="" placeholder="Firt Name"></p></li> 
+    <li class="c_db"><p class="p1 c_bf1"><input type="text" value="" placeholder="Last Name"></p></li> 
+    <li class="c_db"><p class="p1 c_bf1"><input type="text" value="" placeholder="Telephone"></p></li> 
+    <li class="c_db"><p class="p1 c_bf1"><input type="text" value="" placeholder="Street Address"></p></li> 
+    <li class="c_db"><p class="p1 c_bf1"><input type="text" value="" placeholder="City"></p></li> 
+    <li class="c_db"><p class="p1 c_bf1"><input type="text" value="" placeholder="State/Province"></p></li>
+    <li class="c_db"><p class="p1 c_bf1"><input type="text" value="" placeholder="Zip/Postal Code"></p></li> 
+    <li class="c_db"><p class="p1 c_bf1"><input type="text" value="" placeholder="Country"></p></li>
+  </ul>
+</div>
+
+<div class="select_box">
+   <i class="c_off"></i><span class="c_f7">Set as default address</span>
+</div>
+
+
+<div class="c_fixed bg_gray c_bs">
+    <button class="c_btn c_f8">Save</button>
+</div>
+<div class="c_space"></div>
+
+
+<script src="js/appcan.js"></script>
+<script src="js/appcan.control.js"></script>
+
+</body>
+</html>

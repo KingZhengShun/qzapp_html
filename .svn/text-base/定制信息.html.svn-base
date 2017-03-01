@@ -1,0 +1,37 @@
+<!DOCTYPE html>
+<html lang="zh_cn">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="target-densitydpi=device-dpi, width=device-width, initial-scale=1, user-scalable=no, minimum-scale=1.0, maximum-scale=1.0">
+  
+<title></title>
+
+<link type="text/css" rel="stylesheet" href="css/public.css">
+<link type="text/css" rel="stylesheet" href="css/cart.css">
+</head>
+
+<body style="background:#fff;">
+
+<header class="header">
+  <div class="head_box c_db">
+    <p class="head_icon head_back c_db c_bpc c_bac"><i></i></p>
+    <div class="head_text c_bf1 c_txc">Customized information</div>
+  </div>
+</header>
+
+<div class="dzxixi">
+ <p>Fabric: 100% cottonv</p>
+ <p>Back button design: metal buckle</p>
+ <p>Style: silver Buckle</p>
+ <p>Colour: black</p>
+ <p>Logo: feather logo</p>
+</div>
+
+
+<script src="js/appcan.js"></script>
+<script src="js/appcan.control.js"></script>
+
+
+
+</body>
+</html>

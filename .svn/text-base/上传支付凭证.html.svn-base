@@ -1,0 +1,49 @@
+<!DOCTYPE html>
+<html lang="zh_cn">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="target-densitydpi=device-dpi, width=device-width, initial-scale=1, user-scalable=no, minimum-scale=1.0, maximum-scale=1.0">
+  
+<title></title>
+
+<link type="text/css" rel="stylesheet" href="css/public.css">
+<link type="text/css" rel="stylesheet" href="css/user.css">
+</head>
+
+<body class="bg_white">
+
+<header class="header">
+  <div class="head_box c_db">
+    <p class="head_icon head_back c_db c_bpc c_bac"><i></i></p>
+    <div class="head_text head2 c_bf1 c_txc">支付凭证</div>
+  </div>
+</header>
+
+
+
+<div class="form_box">
+    <form method="" action="">
+        <p><input class="input c_f8 c_bs" name="user_name" type="text" placeholder="付款金额"></p>
+        <p><input class="input c_f8 c_bs" name="user_name" type="text" placeholder="付款方式"></p>
+        <p><input class="input c_f8 c_bs" name="user_name" type="text" placeholder="付款时间"></p>
+        <p><textarea class="textarea c_bs h_5 c_f7" name="" placeholder="备注信息"></textarea></p>
+        <div class="c_db upload_box"><div class="load_img"><img src="images/other01.png"></div><span class="upload_btn c_bs"><i>凭证图片</i></span></div>
+        <p class="mt_075"><span class="button c_f8">上传</span></p>
+    </form>
+</div>
+
+
+
+
+
+
+
+
+
+<script src="js/appcan.js"></script>
+<script src="js/appcan.control.js"></script>
+
+
+
+</body>
+</html>

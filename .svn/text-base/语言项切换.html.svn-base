@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html lang="zh_cn">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="target-densitydpi=device-dpi, width=device-width, initial-scale=1, user-scalable=no, minimum-scale=1.0, maximum-scale=1.0">
+<title></title>
+
+<link type="text/css" rel="stylesheet" href="css/public.css">
+<link type="text/css" rel="stylesheet" href="css/main.css">
+</head>
+
+<body class="lang_bg">
+
+<div class="lang_box">
+   <h1 class="c_txc c_f125">CHOOSE REGION</h1>
+   <p class="c_txc">China/中国的</p>
+   <p class="c_txc">English</p>
+</div>
+
+
+<script src="js/appcan.js"></script>
+<script src="js/appcan.control.js"></script>
+
+
+
+</body>
+</html>

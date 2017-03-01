@@ -1,0 +1,81 @@
+<!DOCTYPE html>
+<html lang="zh_cn">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="target-densitydpi=device-dpi, width=device-width, initial-scale=1, user-scalable=no, minimum-scale=1.0, maximum-scale=1.0">
+  
+<title></title>
+	<link rel="stylesheet" type="text/css" href="css/public.css">
+    <link rel="stylesheet" type="text/css" href="css/diy_style.css">
+    <script src="js/jquery-1.10.1.min.js"></script>
+    <script src="js/change_view.js"></script>
+    <script>change.action(640);</script>
+</head>
+<body>
+<div class="header_dz">
+    <div class="p1"><a href="javascript:history.go(-1)"></a></div>
+    <div class="p2">Logo position</div>
+</div>
+<div class="yay_box">
+    <div class="dzytu">
+        <div class="mzone">
+            <img src="images/mzzpic.png">
+            <div>
+                <div class="yuan"><p class="mdts"></p></div>
+                <div class="tleft c_txc">The left<p class="neiysj"></p></div>
+            </div>
+            <div>
+                <div class="yuans"><p class="mdtss"></p></div>
+                <div class="tright c_txc">The right<p class="neizsj"></p></div>
+            </div>
+        </div>
+    </div>
+</div>
+<!--定制LOGO开始-->
+<div class="eject">
+    <p class="shangsj"><img src="images/jtpic.png"></p>
+    <div class="inner">
+        <h1>Logo style </h1>
+        <div class="logostyle">
+            <ul class="clear c_bs">
+                <li class="c_bs on"><img src="images/other.png"></li>
+                <li class="c_bs"><img src="images/other.png"></li>
+                <li class="c_bs"><img src="images/other.png"></li>
+                <li class="c_bs"><img src="images/other.png"></li>
+            </ul>
+        </div>
+        <h1>Logo size</h1>
+        <div class="logosize c_db c_bs"> 
+            <div class="ipt_box c_db c_bs">
+                <div class="ipt_bg c_db c_bs">
+                    <div class="c_bf1"><input type="text" placeholder="Wide" /></div>
+                    <p class="c_txr">CM</p>
+                </div>
+            </div>
+            <div class="ipt_box c_db c_bs">
+                <div class="ipt_bg c_db c_bs">
+                    <div class="c_bf1"><input type="text" placeholder="Wide" /></div>
+                    <p class="c_txr">CM</p>
+                </div>
+            </div>                    
+        </div>
+        <h1>Upload logo</h1>
+        <div class="zengjia c_db c_bs">
+            <div class="upload c_bs">
+                <img src="images/sctppic.png" class="scpic">
+                <input type="file">
+            </div>
+            <div class="zjright c_bs c_bf1">
+                <p class="ywword">Logo to the original color based, if there are other  requireme</p>
+                <input type="text" value="" class="c_bs" />
+            </div>
+        </div>
+    </div>
+    <div class="detebut c_txc">Determine</div>
+</div>
+<!--定制LOGO结束-->
+    
+<script src="js/appcan.js"></script>
+<script src="js/appcan.control.js"></script>
+</body>
+</html>

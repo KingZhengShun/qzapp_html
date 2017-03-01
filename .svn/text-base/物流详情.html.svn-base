@@ -1,0 +1,78 @@
+<!DOCTYPE html>
+<html lang="zh_cn">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="target-densitydpi=device-dpi, width=device-width, initial-scale=1, user-scalable=no, minimum-scale=1.0, maximum-scale=1.0">
+  
+<title></title>
+
+<link type="text/css" rel="stylesheet" href="css/public.css">
+<link type="text/css" rel="stylesheet" href="css/user.css">
+</head>
+
+<body class="bg_gray">
+
+<header class="header">
+  <div class="head_box c_db">
+    <p class="head_icon head_back c_db c_bpc c_bac"><i></i></p>
+    <div class="head_text c_bf1 c_txc">物流详情</div>
+  </div>
+</header>
+
+<div class="wuliu c_db bg_white c_f8 c_bdb">
+       物流状态：<span class="c_cred">已签收</span><br>
+       承运公司：顺丰速递 (95338)<br>
+       运单编号：310025869745
+</div>
+
+<div class="order_list bg_white order_detail">
+    <h1>Commodity list</h1>
+    <div class="order_con c_db c_bdb">
+        <p class="order_pic"><img src="images/dzlb_1.png"></p>
+        <div class="c_bf1 order_text c_f7">
+            <h2>Fashion peaked cap Fashion peaked cap peaked</h2>
+            <p><i>$198</i>×1</p>
+        </div>
+    </div>
+
+    <div class="order_con c_db c_bdb">
+        <p class="order_pic"><img src="images/dzlb_1.png"></p>
+        <div class="c_bf1 order_text c_f7">
+            <h2>Fashion peaked cap Fashion peaked cap peaked</h2>
+            <p><i>$198</i>×1</p>
+        </div>
+    </div>
+
+</div>
+
+
+<div class="wuliu_list bg_white">
+  <h1 class="c_f8 c_c0d">物流跟踪</h1>
+  <ul>
+    <li class="on">
+       <i></i>
+       <div>【青岛市】在山东即墨市公司进行签收扫描，快件已被 拍照 签收，感谢您使用顺丰速递，期待再次为您服务<br>2015-11-06  14:26:43</div>
+    </li>
+      <li>
+          <i></i>
+          <div>【青岛市】在山东即墨市公司进行签收扫描，快件已被 拍照 签收，感谢您使用顺丰速递，期待再次为您服务<br>2015-11-06  14:26:43</div>
+      </li>
+      <li>
+          <i></i>
+          <div>【青岛市】在山东即墨市公司进行签收扫描，快件已被 拍照 签收，感谢您使用顺丰速递，期待再次为您服务<br>2015-11-06  14:26:43</div>
+      </li>
+      <li>
+          <i></i>
+          <div>【青岛市】在山东即墨市公司进行签收扫描，快件已被 拍照 签收，感谢您使用顺丰速递，期待再次为您服务<br>2015-11-06  14:26:43</div>
+      </li>
+  </ul>
+</div>
+
+
+<script src="js/appcan.js"></script>
+<script src="js/appcan.control.js"></script>
+
+
+
+</body>
+</html>

@@ -1,0 +1,54 @@
+<!DOCTYPE html>
+<html lang="zh_cn">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="target-densitydpi=device-dpi, width=device-width, initial-scale=1, user-scalable=no, minimum-scale=1.0, maximum-scale=1.0">
+  
+<title></title>
+
+<link type="text/css" rel="stylesheet" href="css/public.css">
+<link type="text/css" rel="stylesheet" href="css/user.css">
+</head>
+
+<body>
+
+<div class="bc-bg" tabindex="0" data-control="PAGE" id="Page">
+
+    <header class="header">
+        <div class="head_box c_db">
+            <p class="head_icon head_back c_db c_bpc c_bac"><i></i></p>
+            <div class="head_text c_bf1 c_txc">Register</div>
+            <p class="head_r c_db c_bpc c_bac">Sign in</p>
+        </div>
+    </header>
+
+
+    <div class="form_box">
+      <form method="" action="">
+        <p><input class="input c_f8 c_bs" name="user_name" type="text" placeholder="Email"></p>
+        <p><input class="input c_f8 c_bs" name="user_pwd" type="password" placeholder="4~12 for the password"></p>
+        <p><input class="input c_f8 c_bs" name="user_pwd" type="password" placeholder="Repeat password"></p>
+        <div class="c_db yzm_box c_bs">
+          <p class="c_bf1"><input name="user_name" type="text" placeholder="Verification Code"></p>
+          <div class="c_cred">Get in(45)</div>
+        </div>
+        <p class="mt_175"><span class="button c_f8">Register</span></p>
+      </form>
+
+
+        <div class="select_box no_mg">
+            <i class="c_off"></i><span class="c_f7">Consent agreement</span>
+        </div>
+
+
+    </div>
+
+</div>
+
+<script src="js/appcan.js"></script>
+<script src="js/appcan.control.js"></script>
+
+
+
+</body>
+</html>

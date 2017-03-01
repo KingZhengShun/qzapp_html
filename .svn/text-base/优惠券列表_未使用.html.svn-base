@@ -1,0 +1,102 @@
+<!DOCTYPE html>
+<html lang="zh_cn">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="target-densitydpi=device-dpi, width=device-width, initial-scale=1, user-scalable=no, minimum-scale=1.0, maximum-scale=1.0">
+  
+<title></title>
+
+<link type="text/css" rel="stylesheet" href="css/public.css">
+<link type="text/css" rel="stylesheet" href="css/user.css">
+</head>
+
+<body class="bg_gray">
+
+<header class="header">
+    <div class="head_box c_db">
+        <p class="head_icon head_back c_db c_bpc c_bac"><i></i></p>
+        <div class="head_text c_bf1 c_txc">优惠券</div>
+        <p class="head_r c_db c_bpc c_bac">规则</p>
+    </div>
+</header>
+
+<div class="tab_menu bg_white c_bdb c_txc">
+   <ul class="c_db">
+      <li class="on c_bf1">未使用</li>
+      <li class="c_bf1">已使用</li>
+      <li class="c_bf1">已过期</li>
+   </ul>
+</div>
+<div class="kongge"></div>
+
+
+<div class="coupon_list">
+   <h3>Shopping coupon</h3>
+   <h1>$<b>500</b></h1>
+   <div class="c_db coupon_desc">
+     <p class="c_bf1">Num:7895466220</p>
+     <span>2015.06.27</span>
+   </div>
+   <span class="coupon_btn">立即使用</span>
+</div>
+
+<div class="coupon_list">
+    <h3>Shopping coupon</h3>
+    <h1>$<b>500</b></h1>
+    <div class="c_db coupon_desc">
+        <p class="c_bf1">Num:7895466220</p>
+        <span>2015.06.27</span>
+    </div>
+    <span class="coupon_btn">立即使用</span>
+</div>
+
+<div class="coupon_list">
+    <h3>Shopping coupon</h3>
+    <h1>$<b>500</b></h1>
+    <div class="c_db coupon_desc">
+        <p class="c_bf1">Num:7895466220</p>
+        <span>2015.06.27</span>
+    </div>
+    <span class="coupon_btn">立即使用</span>
+</div>
+
+<div class="coupon_list">
+    <h3>Shopping coupon</h3>
+    <h1>$<b>500</b></h1>
+    <div class="c_db coupon_desc">
+        <p class="c_bf1">Num:7895466220</p>
+        <span>2015.06.27</span>
+    </div>
+    <span class="coupon_btn">立即使用</span>
+</div>
+
+<div class="coupon_list">
+    <h3>Shopping coupon</h3>
+    <h1>$<b>500</b></h1>
+    <div class="c_db coupon_desc">
+        <p class="c_bf1">Num:7895466220</p>
+        <span>2015.06.27</span>
+    </div>
+    <span class="coupon_btn">立即使用</span>
+</div>
+
+<!--使用规则-->
+
+<div class="rule_box" style="display:none;">
+  <div class="coupon_rule">
+     <h1>使用规则</h1>
+     <div>
+       <p>1、但使用受商品品类限制，只能购买特定品类商品，无使用限额。</p>
+       <p>2、使用限品类京券提交订单时，订单中的商品必须满足品类限制，在使用的商品范围完全一致，或使用的商品范围完全不一致的情况下，则可以在同一订单下同时使用多张券。</p>
+     </div>
+  </div>
+</div>
+
+
+<script src="js/appcan.js"></script>
+<script src="js/appcan.control.js"></script>
+
+
+
+</body>
+</html>

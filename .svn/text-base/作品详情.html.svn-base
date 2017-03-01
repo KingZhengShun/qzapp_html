@@ -1,0 +1,88 @@
+<!DOCTYPE html>
+<html lang="zh_cn">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="target-densitydpi=device-dpi, width=device-width, initial-scale=1, user-scalable=no, minimum-scale=1.0, maximum-scale=1.0">
+  
+<title></title>
+
+<link type="text/css" rel="stylesheet" href="css/public.css">
+<link type="text/css" rel="stylesheet" href="css/user.css">
+</head>
+
+<body>
+
+<div class="bc-bg" tabindex="0" data-control="PAGE" id="Page">
+
+<div class="zp_back"></div>
+<div class="zp_share"></div>
+
+<div class="zp_img c_txc">
+  <img src="images/hx_17.png">
+  <p class="c_f8">pop style baseball cap baseball baseball</p>
+   $299
+</div>
+
+<div class="diy_info">
+  <h1 class="c_txc">面料信息</h1>
+
+  <h2>前片</h2>
+  <div class="diy_text"><div class="c_db c_bac"><p class="c_bf1">面料名称 <span>蓝色</span></p><img src="images/dzlb_4.png"></div></div>
+
+  <h2>后片</h2>
+  <div class="diy_text"><div class="c_db c_bac"><p class="c_bf1">面料名称 <span>蓝色</span></p><img src="images/dzlb_4.png"></div></div>
+
+  <h2>顶片</h2>
+  <div class="diy_text"><div class="c_db c_bac"><p class="c_bf1">面料名称 <span>蓝色</span></p><img src="images/dzlb_4.png"></div></div>
+</div>
+
+<div class="diy_info">
+    <h1 class="c_txc">工艺信息</h1>
+
+    <h2>后扣设计</h2>
+    <div class="diy_text">
+      <div class="c_db c_bac"><p class="c_bf1">金属皮带扣</p><img src="images/dzlb_4.png"></div>
+      <div class="c_db c_bac"><p class="c_bf1">白金属扣</p><img src="images/dzlb_4.png"></div>
+      <div class="c_db c_bac"><p class="c_bf1">红色汗带</p><img src="images/dzlb_4.png"></div>
+    </div>
+
+    <h2>后扣设计</h2>
+    <div class="diy_text">
+        <div class="c_db c_bac"><p class="c_bf1">金属皮带扣</p><img src="images/dzlb_4.png"></div>
+        <div class="c_db c_bac"><p class="c_bf1">白金属扣</p><img src="images/dzlb_4.png"></div>
+        <div class="c_db c_bac"><p class="c_bf1">红色汗带</p><img src="images/dzlb_4.png"></div>
+    </div>
+</div>
+
+<div class="diy_info">
+    <h1 class="c_txc">LOGO信息</h1>
+
+    <h2>上帽檐</h2>
+    <div class="diy_text">
+        <div class="c_db c_bac"><p class="c_bf1">3D绣花设计</p><img src="images/dzlb_4.png"></div>
+        <div class="c_db c_bac"><p class="c_bf1">宽度: 12CM</p></div>
+    </div>
+
+    <h2>下帽檐</h2>
+    <div class="diy_text">
+        <div class="c_db c_bac"><p class="c_bf1">3D绣花设计</p><img src="images/dzlb_4.png"></div>
+        <div class="c_db c_bac"><p class="c_bf1">宽度: 12CM</p></div>
+    </div>
+</div>
+
+<div class="ft_button">
+  <div class="c_db ft_fixed">
+      <div class="c_bf1"><span class="c_btn_b c_bs c_f8">继续设计</span></div>
+      <div class="c_bf1"><span class="c_btn c_bf1 c_f8">立即购买</span></div>
+  </div>
+</div>
+
+</div>
+
+<script src="js/appcan.js"></script>
+<script src="js/appcan.control.js"></script>
+
+
+
+</body>
+</html>

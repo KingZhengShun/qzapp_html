@@ -1,0 +1,117 @@
+<!DOCTYPE html>
+<html lang="zh_cn">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="target-densitydpi=device-dpi, width=device-width, initial-scale=1, user-scalable=no, minimum-scale=1.0, maximum-scale=1.0">
+  
+<title></title>
+
+<link type="text/css" rel="stylesheet" href="css/public.css">
+<link type="text/css" rel="stylesheet" href="css/product.css">
+</head>
+
+<body style="background:#eee;">
+
+<header class="header details_header">
+  <a href="javascript:history.go(-1)" class="xqfh"></a>
+  <div class="xqgwc"><span>1</span></div>
+  <div class="xqdhtc_box">
+    <div class="xqdhtc">
+      <ul>
+        <li class="xqsy"><i></i>home</li>
+        <li class="xqsc"><i></i>collection</li>
+        <li class="xqfx"><i></i>share</li>
+        <li class="xqkf"><i></i>service</li>
+      </ul>
+      <p class="sjtb"></p>
+    </div>
+  </div>
+</header>
+
+<div class="xiangc">  
+   <div id="slider" class="swipe">
+    <div class="swipe-wrap">
+      <div><a href="#"><img src="images/hx_08.png" /></a></div>
+      <div><a href="#"><img src="images/hx_10.png" /></a></div>
+      <div><a href="#"><img src="images/hx_13.png" /></a></div>
+      <div><a href="#"><img src="images/hx_14.png" /></a></div>
+    </div>
+   <div class="swipe-btn"> <span class="cur"></span> <span></span> <span></span> <span></span></div>
+  </div>
+</div>
+
+<div class="xqjs c_bpc c_bac c_db">Four men's baseball cap hat a Korean tide peaked cap</div>
+<div class="jghxh c_bdb">
+ <p class="p1 c_cr">$ 9980</p>
+ <p class="p2"><a href="#"><i></i>Like</a></p>
+</div>
+
+<div class="xqjstu"><img src="css/images/xqjstu.png"></div>
+<div class="tjsp clear">
+  <h1>PICK OF THE WEEK</h1>
+ <div style="overflow:auto;">
+  <ul>
+    <li>
+      <p class="p1"><img src="css/images/sptjtu.png"></p>
+      <p class="p2">Draconite fashion</p>
+      <p class="p3">$ 322</p>
+    </li>
+    
+    <li>
+      <p class="p1"><img src="css/images/sptjtu.png"></p>
+      <p class="p2">Draconite fashion</p>
+      <p class="p3">$ 322</p>
+    </li>
+    
+    <li>
+      <p class="p1"><img src="css/images/sptjtu.png"></p>
+      <p class="p2">Draconite fashion</p>
+      <p class="p3">$ 322</p>
+    </li> 
+    
+    <li>
+      <p class="p1"><img src="css/images/sptjtu.png"></p>
+      <p class="p2">Draconite fashion</p>
+      <p class="p3">$ 322</p>
+    </li>
+    
+    <li>
+      <p class="p1"><img src="css/images/sptjtu.png"></p>
+      <p class="p2">Draconite fashion</p>
+      <p class="p3">$ 322</p>
+    </li>
+    
+    <li>
+      <p class="p1"><img src="css/images/sptjtu.png"></p>
+      <p class="p2">Draconite fashion</p>
+      <p class="p3">$ 322</p>
+    </li>               
+  </ul>
+ </div>
+</div>
+
+<div class="zdx_tjgwc c_db c_bdt c_bs">
+  <p class="p1 c_bf1"><input type="button" value="Custom"></p>
+  <p class="p2 c_bf1"><input type="button" value="Add to cart"></p>
+</div>
+
+
+
+
+
+<script src="js/jquery-1.8.3.min.js"></script>
+<script src="js/appcan.js"></script>
+<script src="js/appcan.control.js"></script>
+<script src="js/jquery.swipe.js"></script>
+<script>
+//页面滚动效果
+Swipe(document.getElementById('slider'), {
+	continuous: false,
+	//auto:1000,
+	callback: function(index, element) {
+		$('.swipe-btn span').eq(index).addClass('cur').siblings().removeClass();
+	} 
+});
+</script>
+</body>
+</html>

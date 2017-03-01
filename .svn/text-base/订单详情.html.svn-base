@@ -1,0 +1,102 @@
+<!DOCTYPE html>
+<html lang="zh_cn">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="target-densitydpi=device-dpi, width=device-width, initial-scale=1, user-scalable=no, minimum-scale=1.0, maximum-scale=1.0">
+  
+<title></title>
+
+<link type="text/css" rel="stylesheet" href="css/public.css">
+<link type="text/css" rel="stylesheet" href="css/user.css">
+</head>
+
+<body class="bg_gray">
+
+<header class="header">
+  <div class="head_box c_db">
+    <p class="head_icon head_back c_db c_bpc c_bac"><i></i></p>
+    <div class="head_text c_bf1 c_txc">Order details</div>
+  </div>
+</header>
+
+<div class="order_state c_fixed_t c_bs c_db c_f8"><p class="c_bf1">Order amount: <b>$3028.00</b></p>To be paid</div>
+<div class="sp_4"></div>
+
+<div class="order_detail1 bg_white">
+    <p>Order number: TESTA4120662</p>
+    <p>Single time: 12:45:36  2014-12-30</p>
+    <p>Payment: Mobile Alipay</p>
+    <p>Payment time: 23:36:42  2014-12-30</p>
+</div>
+
+<div class="order_detail1 bg_white">
+    <h1>Receiving information</h1>
+    <p>Order number: TESTA4120662</p>
+    <p>Single time: 12:45:36  2014-12-30</p>
+    <p>Payment: Mobile Alipay</p>
+    <p>Payment time: 23:36:42  2014-12-30</p>
+</div>
+
+<div class="order_detail1 bg_white">
+    <h1>Logistics information</h1>
+    <p>Carrier: SF <b class="c_cred">express ></b></p>
+    <p>Waybill number: 310025689742</p>
+</div>
+
+<div class="order_detail1 bg_white">
+    <h1>Order note</h1>
+    <p>Please check the quality of the goods before the goods are sent out</p>
+</div>
+
+<div class="order_detail1 bg_white">
+    <h1>Packaging</h1>
+    <p>Select packing method</p>
+</div>
+
+<div class="order_detail1 bg_white">
+    <h1>Line payment order reply</h1>
+    <p>the platform has received your payment order 2016-12-30 15:30 day payment $300</p>
+    <p>your order has entered the production, pleasebe patient</p>
+</div>
+
+<div class="order_list bg_white order_detail">
+    <h1>Commodity list</h1>
+    <div class="order_con c_db c_bdb">
+        <p class="order_pic"><img src="images/dzlb_1.png"></p>
+        <div class="c_bf1 order_text c_f7">
+            <h2>Fashion peaked cap Fashion peaked cap peaked</h2>
+            <span>Customized ></span>
+        </div>
+        <p class="order_price c_f7"><i>$198</i>×1</p>
+    </div>
+    <div class="order_con c_db c_bdb">
+        <p class="order_pic"><img src="images/dzlb_1.png"></p>
+        <div class="c_bf1 order_text c_f7">
+            <h2>Fashion peaked cap Fashion peaked cap peaked</h2>
+            <span>Customized ></span>
+        </div>
+        <p class="order_price c_f7"><i>$198</i>×1</p>
+    </div>
+
+</div>
+
+<div class="order_detail2 bg_white">
+    <div class="c_db"><p class="c_bf1">Commodity amount</p><b>$ 6350.00</b></div>
+    <div class="c_db"><p class="c_bf1">freight</p><b>$ 35.00</b></div>
+    <h2 class="c_txr c_f8">Real payment：<b>$3028.00</b></h2>
+</div>
+
+<div class="order_btn c_bs c_fixed">
+    <div class="c_txr"><span class="c_btsm">Already paid</span><span class="c_btsm">Cancel</span><span class="c_btsm">Pay</span></div>
+</div>
+<div class="sp_325"></div>
+
+
+
+<script src="js/appcan.js"></script>
+<script src="js/appcan.control.js"></script>
+
+
+
+</body>
+</html>

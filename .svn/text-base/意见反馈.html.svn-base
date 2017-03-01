@@ -1,0 +1,71 @@
+<!DOCTYPE html>
+<html lang="zh_cn">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="target-densitydpi=device-dpi, width=device-width, initial-scale=1, user-scalable=no, minimum-scale=1.0, maximum-scale=1.0">
+  
+<title></title>
+
+<link type="text/css" rel="stylesheet" href="css/public.css">
+<link type="text/css" rel="stylesheet" href="css/user.css">
+</head>
+
+<body class="bg_gray">
+
+<header class="header">
+  <div class="head_box c_db">
+    <p class="head_icon head_back c_db c_bpc c_bac"><i></i></p>
+    <div class="head_text head2 c_bf1 c_txc">意见反馈</div>
+  </div>
+</header>
+
+<div class="feedback_list bg_white">
+    <ul>
+
+        <li>
+            <h1>反馈内容：我想咨询一个问题，哪就是我们这个网站什么时候能上线</h1>
+            <h2>卖家回答：你好，让你久等了。你好，让你久等了你好，让你久等了你好，让你久等了你好，让你久等了</h2>
+        </li>
+
+        <li>
+            <h1>反馈内容：我想咨询一个问题，哪就是我们这个网站什么时候能上线</h1>
+            <h2>卖家回答：你好，让你久等了。你好，让你久等了你好，让你久等了你好，让你久等了你好，让你久等了</h2>
+        </li>
+
+    </ul>
+</div>
+
+<div class="feedback_form pd625">
+  <form name="" method="">
+     <p>
+        <select>
+           <option>这里是默认的下拉菜单</option>
+           <option>产品及定制</option>
+           <option>支付问题</option>
+           <option>退换货处理</option>
+        </select>
+     </p>
+     <p>
+       <textarea class="textarea c_bs h_6 c_f7" name="" placeholder="你的问题和意见（200）"></textarea>
+     </p>
+
+     <span class="button c_f8 mt_075">提 交</span>
+  </form>
+</div>
+
+
+
+
+
+
+
+
+
+
+<script src="js/appcan.js"></script>
+<script src="js/appcan.control.js"></script>
+
+
+
+</body>
+</html>

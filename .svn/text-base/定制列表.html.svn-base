@@ -1,0 +1,126 @@
+<!DOCTYPE html>
+<html lang="zh_cn">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="target-densitydpi=device-dpi, width=device-width, initial-scale=1, user-scalable=no, minimum-scale=1.0, maximum-scale=1.0">
+  
+<title></title>
+
+<link type="text/css" rel="stylesheet" href="css/public.css">
+<link type="text/css" rel="stylesheet" href="css/diy_style.css">
+</head>
+
+<body style="background:#fff;">
+
+<header class="header">
+  <div class="head_box c_db">
+    <p class="head_icon head_back c_db c_bpc c_bac"><i></i></p>
+    <div class="head_text c_bf1 c_txc">Custom</div>
+  </div>
+</header>
+
+<div class="dzbt_1">FIVE PIECE TRUCK CAP</div>
+<div class="pr_list">
+  <ul>
+    <li>
+      <a href="#">
+        <img src="images/dzlb_1.png">
+        <span>pop style baseball cap baseball baseball</span>
+      </a>
+    </li>
+    <li>
+      <a href="#">
+        <img src="images/dzlb_2.png">
+        <span>pop style baseball cap</span>
+      </a>
+    </li>
+  </ul>   
+  
+  <div class="dzbt_1">SIX PIECE TRUCK CAP</div>
+  <ul>
+    <li>
+      <a href="#">
+        <img src="images/dzlb_3.png">
+        <span>pop style baseball cap</span>
+      </a>
+    </li>
+    <li>
+      <a href="#">
+        <img src="images/dzlb_4.png">
+        <span>pop style baseball cap</span>
+      </a>
+    </li>
+    <li>
+      <a href="#">
+        <img src="images/dzlb_5.png">
+        <span>pop style baseball cap</span>
+      </a>
+    </li>
+    <li>
+      <a href="#">
+        <img src="images/dzlb_6.png">
+        <span>pop style baseball cap</span>
+      </a>
+    </li> 
+    
+    <li>
+      <a href="#">
+        <img src="images/dzlb_7.png">
+        <span>pop style baseball cap</span>
+      </a>
+    </li>          
+    
+    <li>
+      <a href="#">
+        <img src="images/dzlb_8.png">
+        <span>pop style baseball cap</span>
+      </a>
+    </li>                      
+  </ul>
+</div>
+
+
+<footer class="footer"> 
+   <div class="footer_box">
+        <ul class="c_db">
+            <li class="c_bf1 act">
+                <a href="javascript:;">
+                    <i class="nav1"></i>
+                    <p>Home</p>
+                </a>
+            </li>
+            <li class="c_bf1">
+                <a href="javascript:;">
+                    <i class="nav2"></i>
+                    <p>Selected</p>
+                </a>
+            </li>
+            <li class="c_bf1">
+                <a href="javascript:;">
+                    <i class="nav3"></i>
+                    <p>Custom</p>
+                </a>
+            </li>
+            <li class="c_bf1">
+                <a href="javascript:;">
+                    <i class="nav4"></i>
+                    <p>Cart</p>
+                </a>
+            </li>
+            <li class="c_bf1">
+                <a href="javascript:;">
+                    <i class="nav5"></i>
+                    <p>Me</p>
+                </a>
+            </li>
+        </ul>
+    </div>    
+</footer>
+
+
+
+<script src="js/appcan.js"></script>
+<script src="js/appcan.control.js"></script>
+
+</body>
+</html>
